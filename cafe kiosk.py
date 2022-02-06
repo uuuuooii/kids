@@ -60,7 +60,7 @@ else:
 #method 1.
 	print("거스름돈은", int(change), "원 입니다.")
 #method 2.
-	print("거스름돈은 %d원 입니다." % int(change))
+	print("거 스름돈은 %d원 입니다." % int(change))
 #method 3.
 	print("거스름돈은 "+str(int(change))+"원 입니다.")
 '''
